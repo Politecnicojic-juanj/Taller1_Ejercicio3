@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio3.xsd">
+
+    <producto>
+        <raton>
+            <codigo>254865</codigo>
+            <nombre>logitech g305</nombre>
+            <descripcion>Comprado en Amazon</descripcion>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>658745</codigo>
+            <descripcion>Comprado en mercadolibre</descripcion>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>547525</codigo>
+            <nombre>Aoc g27</nombre>
+        </monitor>
+    </producto>
+</productos>
